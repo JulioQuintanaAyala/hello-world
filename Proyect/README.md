@@ -2,4 +2,6 @@
 Hello world reoisitory for git 
 this is an example repository for the git tutoial
 
-This repository is built step by step in the turorial
+This repository is built step by step in the turorial.
+
+It now includes steps for Github
